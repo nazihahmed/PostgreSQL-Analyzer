@@ -1,3 +1,4 @@
+![Example of running the program](example.png?raw=true)
 ## Set-up Instructions
 
 1. Create the news database in PostgreSQL
@@ -22,4 +23,3 @@ psql -d news -f newsdata.sql
 ```python
 python analyzer.py
  ```
-![Example of running the program](example.png?raw=true)
