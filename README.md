@@ -22,3 +22,4 @@ psql -d news -f newsdata.sql
 ```python
 python analyzer.py
  ```
+![Example of running the program](/example of running the program.PNG?raw=true)
